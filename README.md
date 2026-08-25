@@ -96,3 +96,10 @@ The suite includes unit tests for the loader and the Dijkstra stage, covering no
 
 ## License
 MIT License
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
